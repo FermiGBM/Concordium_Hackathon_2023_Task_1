@@ -5,9 +5,9 @@ Procedure followed from the given instructions on https://docs.google.com/docume
 
 Screenshots cover:
 
--Development environment setup on windows
+-Development environment setup on Windows
 
--Testnet and Mainnet Wallet Creation
+-Testnet and Mainnet wallet creation
 
 -Claiming testnet coins
 
